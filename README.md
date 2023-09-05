@@ -1,1 +1,1 @@
-# Sznajs_model_independence
+# Independence_role_in_the_generalized_Sznajd_model
